@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 ## 🤖 我的 MaxKB 智能体
 在这里可以直接和我的知识库助手对话👇
+<div id="maxkb-chat-widget"></div>
+
+<script src="https://yourname.github.io/maxkb-float.js"></script>
