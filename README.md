@@ -21,15 +21,7 @@ Here are some ideas to get you started:
 ![MaxKB](https://img.shields.io/badge/-MaxKB-FF6B6B?style=flat-square)
 
 ## 🤖 我的 MaxKB 智能体
-在这里可以直接和我的知识库助手对话👇
-<div id="maxkb-chat-widget"></div>
+### 🤖 我的智能助手
+点击下方按钮，即可与我的知识库助手对话
 
-<script src="https://yourname.github.io/maxkb-float.js"></script>
-## 🤖 智能助手 (点击右下角气泡对话)
-
-[![MaxKB 浮窗助手](https://img.shields.io/badge/点我开启-MaxKB%20智能浮窗-4E6EF2?style=for-the-badge)](https://yourname.github.io/maxkb-float.html)
-
-<details>
-<summary>💬 打开浮窗使用指南</summary>
-点击上方按钮 → 浮窗会自动出现在页面右下角
-</details>
+[![打开AI助手](https://img.shields.io/badge/AI%20%E5%8A%A9%E6%89%8B%E5%8A%A9%E6%89%8B-4E6EF2?style=for-the-badge)](https://xinggui-code/xinggui-code)
