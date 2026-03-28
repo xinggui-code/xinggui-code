@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### 🤖 我的智能助手
 点击下方按钮，即可与我的知识库助手对话
 
-[![打开AI助手](https://img.shields.io/badge/AI%20%E5%8A%A9%E6%89%8B%E5%8A%A9%E6%89%8B-4E6EF2?style=for-the-badge)](https://github.com/xinggui-code/xinggui-code)
+[![打开AI助手](https://img.shields.io/badge/AI%20%E5%8A%A9%E6%89%8B%E5%8A%A9%E6%89%8B-4E6EF2?style=for-the-badge)](http://192.168.245.130:8080/chat/2ca8a7efd9991e2a)
