@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ### 🤖 我的opentalent智能助手
 点击下方按钮，即可与我的知识库助手对话
 
-<a href="http://192.168.245.130:8080/chat/2ca8a7efd9991e2a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI%20%E5%8A%A9%E6%89%8B%E5%8A%A9%E6%89%8B-4E6EF2?style=for-the-badge"></a>
+<a href="javascript:window.open('http://192.168.245.130:8080/chat/2ca8a7efd9991e2a');"><img src="https://img.shields.io/badge/AI%E5%8A%A9%E6%89%8B%E5%8A%A9%E6%89%8B-4E6EF2?style=for-the-badge"></a>
